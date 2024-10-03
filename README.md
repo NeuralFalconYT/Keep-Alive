@@ -1,7 +1,6 @@
 
-# Auto Mouse Mover for Activity Keep-Alive
-
-This script moves the mouse randomly at intervals to simulate user activity and prevent apps or systems from going idle. You can start or stop the mouse movement with a double right-click.
+# Auto Mouse Mover for Activity Keep-Alive Apps
+This script simulates random mouse movement to keep apps active and prevent idle timeouts. You can start or stop the movement with a double right-click, allowing you to focus on other tasks without being logged out or interrupted.
 
 ## Features
 - **Random mouse movement** to keep apps active.
